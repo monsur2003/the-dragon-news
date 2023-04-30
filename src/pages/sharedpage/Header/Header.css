@@ -1,0 +1,22 @@
+.header-title {
+   background-color: #aaa6a688;
+   padding: 14px;
+   border: none;
+   gap: 12px;
+}
+.q-zone {
+   background-color: #f3f3f3;
+}
+.bg-titlee h3 {
+   font-family: "Poppins";
+   font-style: normal;
+   font-weight: 700;
+   font-size: 30px;
+}
+.link {
+   font-family: "Poppins";
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20px;
+   margin-top: 10px;
+}
